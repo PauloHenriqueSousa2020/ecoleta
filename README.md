@@ -11,9 +11,11 @@ resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resí
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Banner.png" />
 </h1>
 
-<h2 align="center"> Desenvolvida com as tecnologias TypeScript, <img src="assets/node.png" alt="node" height="18"> Node, 
-<img src="assets/react.png" alt="react" height="18"> React, <img src="assets/react-native.png" alt="react-native" height="18"> React Native 
-e <img src="assets/sqlite.png" alt="sqlite" height="18"> SQLite.</h2>
+<h2 align="center"> Desenvolvida com as tecnologias <img src="assets/typescript.png" alt="typescript" height="18"> TypeScript, 
+    <img src="assets/node.png" alt="node" height="18"> Node, <img src="assets/react.png" alt="react" height="18"> React, 
+    <img src="assets/react-native.png" alt="react-native" height="18"> React Native e 
+    <img src="assets/sqlite.png" alt="sqlite" height="18"> SQLite.
+</h2>
 
 <h3> Outras tecnologias: </h3>
 <ul>
