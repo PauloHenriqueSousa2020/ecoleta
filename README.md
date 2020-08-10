@@ -39,3 +39,9 @@ e <img src="assets/sqlite.png" alt="sqlite" height="18"> SQLite.</h2>
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
 </p>
+
+<h3> Instrutor: </h3> 
+<a href="https://github.com/diego3g"> Diego Fernandes </a> - CTO Rocketseat
+
+<h3> Licença </h3>
+Este projeto está sobre a licença <a href="https://github.com/PauloHenriqueSousa2020/be-the-hero/blob/master/LICENSE.md"> MIT </a>
